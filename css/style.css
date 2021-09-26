@@ -182,7 +182,7 @@ header {
 .slick-prev::before {
   content: "\f104";
 }
-.slick-next:before {
+.slick-next::before {
   content: "\f105";
 }
 .slick-prev {
